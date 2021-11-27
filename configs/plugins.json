@@ -1,0 +1,14 @@
+{
+  "HealthBars": {
+    "Enable": true
+  },
+  "PreloadAlert": {
+    "Enable": true
+  },
+  "SimpleFlaskManager": {
+    "Enable": true
+  },
+  "Radar": {
+    "Enable": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "DisableEntityProcessingInTownOrHideout": false,
+  "HidePerfStatsWhenBg": false,
+  "HideSettingWindowOnStart": false,
+  "KeyPressTimeout": 50,
+  "FontPathName": "C:\\Windows\\Fonts\\msyh.ttc",
+  "FontSize": 18,
+  "FontLanguage": 1,
+  "FontCustomGlyphRange": "",
+  "MainMenuHotKey": 123,
+  "ShowDataVisualization": false,
+  "ShowGameUiExplorer": false,
+  "ShowPerfStats": true
+}
